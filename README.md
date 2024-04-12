@@ -1,6 +1,10 @@
 Gregwar's CaptchaBundle
 =====================
 
+TEMPORAL VERSION until Gregwar's CaptchaBundle accepts Symfony7 compatibility pull-request. Use the main bundle if you can.
+
+
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUXRLWHQSWS6L)
 
 The `GregwarCaptchaBundle` adds support for a captcha form type for the
